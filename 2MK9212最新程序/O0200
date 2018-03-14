@@ -1,0 +1,7 @@
+%
+O0200(CE_LIANG_CHICK)
+IF[#1000EQ1]GOTO100
+#3000=1(Measuring failure) 
+N100 
+M99
+%
